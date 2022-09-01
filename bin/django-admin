@@ -1,4 +1,4 @@
-#!/home/saqlain/Desktop/django-tutorial/bin/python
+!/home/saqlain/Desktop/django-tutorial/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
