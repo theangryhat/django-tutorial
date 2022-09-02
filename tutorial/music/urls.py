@@ -4,5 +4,5 @@ from django.contrib import admin
 
 
 urlpattterns = [
-    url(r'^$', views.index, ),
+    path('', views.index,name='index'),
 ]
